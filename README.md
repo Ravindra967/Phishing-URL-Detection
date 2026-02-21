@@ -83,3 +83,5 @@ Feature importance for Phishing URL Detection
 4. Gradient Boosting Classifier currectly classify URL upto 97.4% respective classes and hence reduces the chance of malicious attachments.
 5. User Friendly
 6. Everyone Access Easily
+7. Exploring more technologies
+
